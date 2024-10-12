@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Week3_HW2\bin\Debug\Week3_HW2.exe.config
+C:\Users\User\source\repos\Week3_HW2\bin\Debug\Week3_HW2.exe
+C:\Users\User\source\repos\Week3_HW2\bin\Debug\Week3_HW2.pdb
+C:\Users\User\source\repos\Week3_HW2\obj\Debug\Week3_HW2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week3_HW2\obj\Debug\Week3_HW2.exe
+C:\Users\User\source\repos\Week3_HW2\obj\Debug\Week3_HW2.pdb

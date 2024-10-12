@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Week3_HW_Stack\bin\Debug\Week3_HW_Stack.exe.config
+C:\Users\User\source\repos\Week3_HW_Stack\bin\Debug\Week3_HW_Stack.exe
+C:\Users\User\source\repos\Week3_HW_Stack\bin\Debug\Week3_HW_Stack.pdb
+C:\Users\User\source\repos\Week3_HW_Stack\obj\Debug\Week3_HW_Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week3_HW_Stack\obj\Debug\Week3_HW_Stack.exe
+C:\Users\User\source\repos\Week3_HW_Stack\obj\Debug\Week3_HW_Stack.pdb

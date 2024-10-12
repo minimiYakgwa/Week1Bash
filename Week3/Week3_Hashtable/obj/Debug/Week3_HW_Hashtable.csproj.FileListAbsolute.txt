@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Week3_HW_Hashtable\obj\Debug\Week3_HW_Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week3_HW_Hashtable\bin\Debug\Week3_HW_Hashtable.exe.config
+C:\Users\User\source\repos\Week3_HW_Hashtable\bin\Debug\Week3_HW_Hashtable.exe
+C:\Users\User\source\repos\Week3_HW_Hashtable\bin\Debug\Week3_HW_Hashtable.pdb
+C:\Users\User\source\repos\Week3_HW_Hashtable\obj\Debug\Week3_HW_Hashtable.exe
+C:\Users\User\source\repos\Week3_HW_Hashtable\obj\Debug\Week3_HW_Hashtable.pdb
